@@ -1,4 +1,4 @@
-package chapter02_adapter.extend;
+package picture.chapter02_adapter.extend;
 
 public interface Print {
 

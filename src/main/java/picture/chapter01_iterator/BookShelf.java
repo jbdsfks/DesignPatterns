@@ -1,4 +1,4 @@
-package chapter01_iterator;
+package picture.chapter01_iterator;
 
 import java.util.ArrayList;
 import java.util.List;

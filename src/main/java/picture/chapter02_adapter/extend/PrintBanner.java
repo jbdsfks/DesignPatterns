@@ -1,4 +1,4 @@
-package chapter02_adapter.extend;
+package picture.chapter02_adapter.extend;
 
 public class PrintBanner extends Banner implements Print {
     public PrintBanner(String string) {

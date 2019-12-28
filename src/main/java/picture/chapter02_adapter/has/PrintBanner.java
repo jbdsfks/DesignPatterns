@@ -1,6 +1,6 @@
-package chapter02_adapter.has;
+package picture.chapter02_adapter.has;
 
-import chapter02_adapter.extend.Banner;
+import picture.chapter02_adapter.extend.Banner;
 
 public class PrintBanner extends Print {
     private Banner banner;

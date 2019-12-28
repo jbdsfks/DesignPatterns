@@ -1,4 +1,4 @@
-package chapter01_iterator;
+package picture.chapter01_iterator;
 
 public class Main {
     public static void main(String[] args) {

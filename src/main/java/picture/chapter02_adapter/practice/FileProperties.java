@@ -1,4 +1,4 @@
-package chapter02_adapter.practice;
+package picture.chapter02_adapter.practice;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
